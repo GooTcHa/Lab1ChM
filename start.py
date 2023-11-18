@@ -17,7 +17,6 @@ def create_matrix(a, b, e):
                 a[i - 1].append(-(i+sqrt(j)))
     return a, b
 
-#all
 def get_left_diag(a, b, e):
     frac: float
     # print(*a, sep='\n')
