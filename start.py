@@ -18,6 +18,7 @@ def create_matrix(a, b, e):
     return a, b
 
 #all
+#lsdjf
 def get_left_diag(a, b, e):
     frac: float
     # print(*a, sep='\n')
